@@ -1,3 +1,4 @@
+[![Build Status](https://heineken.visualstudio.com/Robotics%20and%20Automation/_apis/build/status/btakac.pipelines-java?branchName=master)](https://heineken.visualstudio.com/Robotics%20and%20Automation/_build/latest?definitionId=280&branchName=master)
 
 # Contributing
 
